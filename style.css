@@ -1,0 +1,40 @@
+
+body{
+  background-color: black;
+}
+header img {
+  width: 60px;
+  height: 60px;
+}
+header{
+    text-align: center;
+}
+header nav ul li {
+  display: inline-block;
+  margin: 10px;
+  color: white;
+}
+header nav ul li:hover {
+  color: black;
+}
+nav{
+  background-color: #EE8D0B;
+}
+main img {
+  width: 50%;
+  height: 70%;
+  float: left;
+  margin-right: 5px;
+}
+main p {
+  color: white;
+}
+main h2 {
+  color: white;
+ 
+}
+footer{
+    text-align: center;
+    background-color: rgb(238, 141, 11);
+    color: white;
+}
