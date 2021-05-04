@@ -20,12 +20,12 @@ header nav ul li:hover {
 nav{
   background-color: #EE8D0B;
 }
-main img {
-  width: 50%;
-  height: 70%;
-  float: left;
-  margin-right: 5px;
+main  img {
+  width: 100%;
+  height: 100%;
+  
 }
+
 main p {
   color: white;
 }
@@ -37,4 +37,5 @@ footer{
     text-align: center;
     background-color: rgb(238, 141, 11);
     color: white;
+    margin-bottom: 0;
 }
